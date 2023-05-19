@@ -15,6 +15,8 @@ Finding the length of the words by using len() function.
 Calling the function and printing the number of words.
 ## PROGRAM:
 ```Python
+#Developed By: ROHIT JAIN D
+#Register No: 212222230120
 n=input('Enter File name: ')
 wordslen=0
 with open(n,'r') as f:
